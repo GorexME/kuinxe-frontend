@@ -1,22 +1,14 @@
 <template>
   <div class="about">
     <h1>Contact</h1>
- <ul>
-  <li><a href="https://www.facebook.com/kuinxe">Facebook</a></li>
-  <li><a href="https://www.instagram.com/kuinxe">Instagram</a></li> 
- </ul>
+    <a href="https://www.facebook.com/kuinxe">facebook</a>
+    <br>
+    <a href="https://www.instagram.com/kuinxe">instagram</a>
   </div>
 </template>
-<style>
-ul {
-  list-style-type: none;
-  padding: 0;
-}
-li {
-  display: inline-block;
-  margin: 0 10px;
-}
-a {
-  color: #42b983;
+<style lang="scss" scoped>
+h1,a {
+  padding: 15px;
+  text-decoration: underline  
 }
 </style>
