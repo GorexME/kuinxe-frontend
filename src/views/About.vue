@@ -1,9 +1,9 @@
 <template>
   <div class="about">
     <h1>Contact</h1>
-    <a href="https://www.facebook.com/kuinxe">facebook</a>
+    <a href="https://www.facebook.com/kuinxe">Facebook</a>
     <br>
-    <a href="https://www.instagram.com/kuinxe">instagram</a>
+    <a href="https://www.instagram.com/kuinxe">Instagram</a>
   </div>
 </template>
 <style lang="scss" scoped>
